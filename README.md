@@ -8,5 +8,7 @@ Make a number look fancy like 1 to 0001
 * Set the score. (Usually a variable or global variable in your game.)
 
 ## Project
+https://www.ulisesfreitas.com/gdevelop-extensions/FancyScoreAll.zip
 
 ## Tutorial
+https://www.youtube.com/watch?v=9rG5a04pkyo
